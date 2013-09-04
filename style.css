@@ -1,0 +1,4 @@
+#main-container  { margin: 0px auto; width: 960px;}
+#main-container {border:1px outset purple; background-color: black; color:white; font-family: "Ariel"}
+#results-container  { margin: 0px auto; width: 960px;}
+#results-container {border:1px outset purple; background-color: black; color:white; font-family: "Ariel"; text-align:center}
